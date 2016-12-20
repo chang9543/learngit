@@ -11,4 +11,10 @@ Git tracks changes of files.
 
 Merge in fast forwarding mode
 
+
 bug fixing for issue-101
+
+Bug branch -- dev branch has committed and modification
+
+##### apply for specific stash
+
