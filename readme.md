@@ -6,3 +6,5 @@ Git tracks changes of files.
 *First line to remote repository*
 **Createing a new branch is quick**
 > Creating a new branch is quick and simple.
+### Table
+| Item | Value| Qty|
