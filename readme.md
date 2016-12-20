@@ -10,3 +10,5 @@ Git tracks changes of files.
 | Item | Value| Qty|
 
 Merge in fast forwarding mode
+
+bug fixing for issue-101
