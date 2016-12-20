@@ -10,3 +10,7 @@ Git tracks changes of files.
 | Item | Value| Qty|
 
 Merge in fast forwarding mode
+
+Bug branch -- dev branch has committed and modification
+
+##### apply for specific stash
