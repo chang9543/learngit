@@ -18,3 +18,5 @@ Bug branch -- dev branch has committed and modification
 
 ##### apply for specific stash
 
+Practice stash and bug branch 12_21
+
